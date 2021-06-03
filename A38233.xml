@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Instructions and directions from the House of Commons to the high sheriffs, commissioners, collectors, high constables, churchwardens, and overseers for the poore and all other officers whom they may concern, touching the levieing, collecting, and speedy sending up of all the arrears upon the acts of the first six subsidies, pole-money, contribution and loane, and the first 400000 pound.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38233</idno><idno type="EEBO-CITATION">9362635</idno>
+  <idno type="VID">42849</idno>
+  <idno type="EEBO-PROQUEST">2248514048</idno>
+  
+            <idno type="STC">Wing E2589A</idno>
+            <idno type="STC">ESTC R26127</idno>
+            <idno type="OCLC">09362635</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A38233)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42849)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1308:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Instructions and directions from the House of Commons to the high sheriffs, commissioners, collectors, high constables, churchwardens, and overseers for the poore and all other officers whom they may concern, touching the levieing, collecting, and speedy sending up of all the arrears upon the acts of the first six subsidies, pole-money, contribution and loane, and the first 400000 pound.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Lawrence Blaiklocke,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>l642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Taxation --  Great Britain.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42849:1"/>
+            <pb facs="tcp:42849:1"/>
+            <p>Instructions AND DIRECTIONS FROM THE House of COMMONS, TO The High Sheriffs, Commissioners, Collectors, High Constables, Churchwardens, and Overseers For the Poore, and all other Officers, whom they may concern, touching the Levieing, Collecting, and speedy sending up of all the Arrears upon the Acts of the first six Subsidies, Pole<g ref="char:EOLhyphen"/>money, Contribution, and Loane, and the first payment of the bill of 400000 pound.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Published by order of the Honourable House of Commons.</p>
+                        <closer>
+                           <signed>Hen. Elsing, Cler. Parl. Dom. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <figure>
+               <q xml:lang="lat">EX IGNE RESVRGIT VIRTVS</q>
+               <figure>
+                  <figDesc>blazon of the Stationer's Company</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>monogram of Richard Badger consisting of the letters "RICHARD BADGER"</figDesc>
+               </figure>
+               <figure>
+                  <figDesc>blazon of Richard Badger</figDesc>
+               </figure>
+               <figDesc>printer's device with the motto "ex igne resurgit virtus," depicting a phoenix in flames and bearing the monogram of Richard Badger (1602-42) with his arms to the right of it and those of the Stationers' Company to the left of it. (McKerrow no. 417)</figDesc>
+            </figure>
+            <p>LONDON, Printed for <hi>Laurence Blaiklocke,</hi> and are to be sold at his Shop joyning to Temple barre.</p>
+            <p>1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:42849:2"/>
+            <head>Instructions and Directions, From the House of Commons, to the high Sheriffes, Commissioners▪ Collectors, high Constables, Church-wardens, and Overseers for the poore, and all other Officers, whom they may concern, touching the levying, Collecting, and speedy sending up of all the Arreares upon the Acts of the first six Subsidies, Pole-money, Contri<g ref="char:EOLhyphen"/>bution, and Loane, and the first payment of the bill of foure hundred thousand pounds.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by severall Acts of Parlia<g ref="char:EOLhyphen"/>ment, there hath beene care taken for the raising of severall summes of money, for the necessities of this Kingdome and that of Ireland, Which if they had beene levied and paid in according to the times limited in the Acts, would have saved the expence of great summs payed for interest of moneys borrowed in lieu of those which they should have received of their own, but also well nigh have supplyed the present occasions: And whereas severall orders have issued out of this House at severall times, for the expediting of those levies whereof they have not hitherto rea<g ref="char:EOLhyphen"/>ped any such fruit answerable to their expecta<g ref="char:EOLhyphen"/>tion, by reason of the neglect of Officers, and such as have beene intrusted for those services. That House being very sensible hereof, and ha<g ref="char:EOLhyphen"/>ving
+<pb facs="tcp:42849:2"/> not leasure amidst those weighty affaires, that lye upon them for preservation of the King<g ref="char:EOLhyphen"/>dome at present to take the particular care upon themselves, as otherwise they would, have thought good to transmit the charge thereof un<g ref="char:EOLhyphen"/>to a speciall Committee, to whom they have given power to appoint some men of trust, who shall send their Agents into every Countie, by whom they expect to understand, where those obstructions lye, and what Arreares of moneys rest in any Officers or collectors hands, of which they are informed there are considerable summs in divers Counties; and doe therefore will and require all those whom it doth or may concerne to take notice of these their ensuing directions and commands, and that all those that have beene intrusted as Commissioners for them, by any the said Acts, to give their Agents herein their best aid and assistance.</p>
+            <p>And first, whereas divers orders have issued out of this House for the bringing in of the Ar<g ref="char:EOLhyphen"/>rears of the first six Subsidies, at a certaine day long since past, and for clearing all accounts con<g ref="char:EOLhyphen"/>cerning the same, which yet is not done by ma<g ref="char:EOLhyphen"/>ny. Therefore these are strictly to charge and require you the severall Collectors of each Counties respectively, who have not cleared
+<pb facs="tcp:42849:3"/> your Accompts▪ that you within fourteene days after notice hereof given, do bring in the moneys that are in arrear of those said six Subsidies un<g ref="char:EOLhyphen"/>to the Receivers and Treasurers, appointed by those Acts respectively, and such as shall faile or neglect to perfect their accompts by the time appointed upon the return of their names, shall be proceeded with according to the law in that case made and provided for.</p>
+            <p>This House likewise taking further notice of the neglects of Sheriffs and Commissioners, ap<g ref="char:EOLhyphen"/>pointed by the act of Polemony, in not returning such certificates, as by the severall Orders of this House they have been required, whereby there could not be that meanes used for the getting in of the arrears due upon that Bill, as was requi<g ref="char:EOLhyphen"/>site for the service of the common-Weale in that respect, And being also given to understand that in many Counties of this Kingdome, there hath not beene that diligence used, neither in advan<g ref="char:EOLhyphen"/>cing the Contributions and Loanes for Ireland, neither in the speedy returning of the monies collected according to that Act, as the necessi<g ref="char:EOLhyphen"/>ties of that distressed Kingdome did require, which they impute to the malignitie of some disaffected to the service of God and the true Religion, but withall taking notice of the libe<g ref="char:EOLhyphen"/>ralitie
+<pb facs="tcp:42849:3"/> of many well disposed persons in divers parts of this Kingdom, which they cannot passe by without due commendation. To the intent therefore that some speedy course may be taken, for the speedy getting in of the Arrears upon ei<g ref="char:EOLhyphen"/>ther of these Acts, and that upon the latter of these, the liberalitie of the well disposed might not be obscured, but made knowne according to the Collections made in every severall parish throughout the Kingdome, this House hath thought fit, by these agents appointed in every Shire, to deliver unto you the Commissioners of every Countie appointed by these Acts respe<g ref="char:EOLhyphen"/>ctively, blank Bookes of all the Hundreds and Parishes in every of your Counties, willing and requiring you upon receipt of them to call be<g ref="char:EOLhyphen"/>fore you in your severall Divisions and Precincts where formerly you have sate, all high Consta<g ref="char:EOLhyphen"/>bles, petty Constables, Churchwardens, and Overseers of the poor, and all such other Officers and Collectors as you shall thinke convenient for this service, and there strictly to require them respectively within a short time after to bring in an exact Accompt of all such Pole-money as hath beene received in every severall division and Precinct where any Collector for the same hath been appointed, and of all Contribution
+<pb facs="tcp:42849:4"/> or Loane money levyed in every reveran parish, which you are to enter accordingly in these blank books, that so by the publishing therof, right may bee done to every Parish, and withall to require them to make known unto you, what moneys they have received by vertue of these Acts, and what any of them have in their hands, what they have paid, and to whom, and that they re<g ref="char:EOLhyphen"/>turne up all such arrears as they have in their hands in any kind, within fourteene dayes after this meeting and notice given in such sort, as by another order of this House herewith sent, they are directed; and that they give notice of all such as have refused to pay in their Pole-money or payed lesse than they ought, and to certifie their names unto you. Of all which you are required to take a particular accompt, and to cer<g ref="char:EOLhyphen"/>tifie the same, and Withall the names of all such as shall bee negligent or refractory or diligent and industrious in this service by these agents, who are appointed weekly to give advertise<g ref="char:EOLhyphen"/>ments thereof unto this House, or such as are appointed by us, to the intent that those that re<g ref="char:EOLhyphen"/>fuse may be sent for hither to answer their neg<g ref="char:EOLhyphen"/>lects, and those that take paines either in wri<g ref="char:EOLhyphen"/>ting, or receiving, and returning up of moneys, may be rewarded accordingly, of which there
+<pb n="6" facs="tcp:42849:4"/> is speciall regard taken by the appointment of this house.</p>
+            <p>And lastly, whereas by the Bill of foure hun<g ref="char:EOLhyphen"/>dred thousand pounds, the first payment of two hundred thousand pounds should have beene assessed, levied and payd in by the twentieth of July last past, whereof many Counties have as yet returned up nothing, and most very little, and being informed that under the vaine and false pretence, that that bill was not signed by his Majestie, there hath in some Counties of this Kingdome beene a great neglect of that ser<g ref="char:EOLhyphen"/>vice, Wee doe therefore will and require you the Commissioners of each Countie respective<g ref="char:EOLhyphen"/>ly, where such assessements are not yet made or perfected forthwith to proceed and to expedite them according to the intents and purpose of the Act, and where they are already assessed and Collectors appointed, that you the Collectors do with all possible expedition, gather in and re<g ref="char:EOLhyphen"/>ceive the said moneyes, and send them up to the receivers and treasurers respectively appoin<g ref="char:EOLhyphen"/>ted by that Act, and that you the Commissio<g ref="char:EOLhyphen"/>ners certifie by these Agents all your proceed<g ref="char:EOLhyphen"/>ings therein, that so the service may not be re<g ref="char:EOLhyphen"/>tarded but expedited according to the urgent ne<g ref="char:EOLhyphen"/>cessitie
+<pb n="7" facs="tcp:42849:5"/> of the Kingdome, which your care and endeavours herein, this House will take as an acceptable service done unto the Com<g ref="char:EOLhyphen"/>mon wealth, the contrary no lesse than neglect and con<g ref="char:EOLhyphen"/>tempt of them.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:42849:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
